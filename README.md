@@ -1,3 +1,4 @@
+SUMMARY INSIGHT
 Univariate Analysis (Numerical Column)
   1. kolom Age mendekati distribusi normal
   2. kolom DurationOfPitch, MonthlyIncome dan NumberOfTrips membentuk distribusi positive skewed yang berarti terdapat outlier.
